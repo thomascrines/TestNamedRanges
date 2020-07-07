@@ -1,0 +1,383 @@
+File name: POBE+2020+-+Blank+Return.xlsx
+
+Sheet name: Front Page
+
+Named Ranges
+ Name: _xlnm.Print_Area | Start address: A1 | End address: J55
+
+Formulas
+ Cell address: F5 | Formula : HLOOKUP(C5, 'Lookup Data'!1:2, 2, FALSE) | Value: N/A
+
+
+Sheet name: Guidance
+
+Named Ranges
+  No named ranges in sheet
+
+Formulas
+ Cell address: C40 | Formula : 0 | Value: 0
+
+
+Sheet name: Changes
+
+Named Ranges
+  No named ranges in sheet
+
+Formulas
+  No formulae in sheet
+
+
+Sheet name: POBE 2020
+
+Named Ranges
+  No named ranges in sheet
+
+Formulas
+ Cell address: B1 | Formula : 'Front Page'!A1 | Value: Provisional Outturn and Budget Estimates (POBE) 2020
+ Cell address: B2 | Formula : 'Front Page'!C5 | Value: Choose your authority
+ Cell address: C9 | Formula : C52 | Value: 0
+ Cell address: D9 | Formula : D52 | Value: 0
+ Cell address: F9 | Formula : F52 | Value: 0
+ Cell address: C10 | Formula : C75 | Value: 0
+ Cell address: D10 | Formula : D75 | Value: 0
+ Cell address: F10 | Formula : F75 | Value: 0
+ Cell address: C11 | Formula : C138 | Value: #VALUE!
+ Cell address: D11 | Formula : D138 | Value: 0
+ Cell address: F11 | Formula : F138 | Value: 0
+ Cell address: C12 | Formula : C167 | Value: 0
+ Cell address: D12 | Formula : D167 | Value: 0
+ Cell address: F12 | Formula : F167 | Value: 0
+ Cell address: C13 | Formula : C179 | Value: 0
+ Cell address: D13 | Formula : D179 | Value: 0
+ Cell address: F13 | Formula : F179 | Value: 0
+ Cell address: C14 | Formula : C198 | Value: #VALUE!
+ Cell address: D14 | Formula : D198 | Value: 0
+ Cell address: F14 | Formula : F198 | Value: 0
+ Cell address: C15 | Formula : C212 | Value: 0
+ Cell address: D15 | Formula : D212 | Value: 0
+ Cell address: F15 | Formula : F212 | Value: 0
+ Cell address: C16 | Formula : C232 | Value: 0
+ Cell address: D16 | Formula : D232 | Value: 0
+ Cell address: F16 | Formula : F232 | Value: 0
+ Cell address: C17 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A7, FALSE) | Value: H36
+ Cell address: C18 | Formula : C245 | Value: 0
+ Cell address: D18 | Formula : D245 | Value: 0
+ Cell address: F18 | Formula : F245 | Value: 0
+ Cell address: C19 | Formula : SUM(C9:C18) | Value: #VALUE!
+ Cell address: D19 | Formula : SUM(D9:D18) | Value: 0
+ Cell address: F19 | Formula : SUM(F9:F18) | Value: 0
+ Cell address: C24 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A9, FALSE) | Value: H43
+ Cell address: C25 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A10, FALSE) | Value: H44
+ Cell address: D25 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 4, FALSE) | Value: Finance Circular
+ Cell address: C26 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A11, FALSE) | Value: H45
+ Cell address: C27 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A12, FALSE) | Value: H46
+ Cell address: C28 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A13, FALSE) | Value: H47
+ Cell address: C29 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A14, FALSE) | Value: H48
+ Cell address: C31 | Formula : SUM(C24:C29) | Value: 0
+ Cell address: D31 | Formula : SUM(D24:D30) | Value: 0
+ Cell address: F31 | Formula : SUM(F24:F30) | Value: 0
+ Cell address: C33 | Formula : C19 | Value: #VALUE!
+ Cell address: D33 | Formula : D19 | Value: 0
+ Cell address: F33 | Formula : F19 | Value: 0
+ Cell address: C34 | Formula : C31 | Value: 0
+ Cell address: D34 | Formula : D31 | Value: 0
+ Cell address: F34 | Formula : F31 | Value: 0
+ Cell address: C35 | Formula : C33+C34 | Value: #VALUE!
+ Cell address: D35 | Formula : D33+D34 | Value: 0
+ Cell address: F35 | Formula : F33+F34 | Value: 0
+ Cell address: C37 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A15, FALSE) | Value: H57
+ Cell address: F37 | Formula : D41 | Value: 0
+ Cell address: C38 | Formula : C35 | Value: #VALUE!
+ Cell address: D38 | Formula : D35 | Value: 0
+ Cell address: F38 | Formula : F35 | Value: 0
+ Cell address: C39 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A16, FALSE) | Value: H59
+ Cell address: C40 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A17, FALSE) | Value: H60
+ Cell address: C41 | Formula : SUM(C37:C40) | Value: #VALUE!
+ Cell address: D41 | Formula : SUM(D37:D40) | Value: 0
+ Cell address: F41 | Formula : SUM(F37:F40) | Value: 0
+ Cell address: C46 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A19, FALSE) | Value: H71
+ Cell address: C47 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A20, FALSE) | Value: H72
+ Cell address: C48 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A21, FALSE) | Value: H73
+ Cell address: C49 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A22, FALSE) | Value: H74
+ Cell address: C50 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A23, FALSE) | Value: H75
+ Cell address: C51 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A24, FALSE) | Value: H76
+ Cell address: C52 | Formula : SUM(C46:C51) | Value: 0
+ Cell address: D52 | Formula : SUM(D46:D51) | Value: 0
+ Cell address: E52 | Formula : SUM(E46:E51) | Value: 0
+ Cell address: F52 | Formula : SUM(F46:F51) | Value: 0
+ Cell address: G52 | Formula : SUM(G46:G51) | Value: 0
+ Cell address: C54 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A25, FALSE) | Value: H80
+ Cell address: C55 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A26, FALSE) | Value: H81
+ Cell address: C56 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A27, FALSE) | Value: H82
+ Cell address: C57 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A28, FALSE) | Value: H83
+ Cell address: C58 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A29, FALSE) | Value: H84
+ Cell address: C59 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A30, FALSE) | Value: H85
+ Cell address: C60 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A31, FALSE) | Value: H86
+ Cell address: C61 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A32, FALSE) | Value: H87
+ Cell address: C62 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A33, FALSE) | Value: H88
+ Cell address: C66 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A35, FALSE) | Value: H96
+ Cell address: C67 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A36, FALSE) | Value: H97
+ Cell address: C68 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A37, FALSE) | Value: H98
+ Cell address: D68 | Formula : D84 | Value: 0
+ Cell address: F68 | Formula : F84 | Value: 0
+ Cell address: C69 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A38, FALSE) | Value: H99
+ Cell address: D69 | Formula : D93 | Value: 0
+ Cell address: F69 | Formula : F93 | Value: 0
+ Cell address: C70 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A39, FALSE) | Value: H100
+ Cell address: D70 | Formula : D102 | Value: 0
+ Cell address: F70 | Formula : F102 | Value: 0
+ Cell address: C71 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A40, FALSE) | Value: H101
+ Cell address: D71 | Formula : D109 | Value: 0
+ Cell address: F71 | Formula : F109 | Value: 0
+ Cell address: C72 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A41, FALSE) | Value: H102
+ Cell address: D72 | Formula : D115 | Value: 0
+ Cell address: F72 | Formula : F115 | Value: 0
+ Cell address: C73 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A42, FALSE) | Value: H103
+ Cell address: C74 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A43, FALSE) | Value: H104
+ Cell address: C75 | Formula : SUM(C66:C74) | Value: 0
+ Cell address: D75 | Formula : SUM(D66:D74) | Value: 0
+ Cell address: F75 | Formula : SUM(F66:F74) | Value: 0
+ Cell address: C77 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A44, FALSE) | Value: H106
+ Cell address: C79 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A46, FALSE) | Value: H110
+ Cell address: C80 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A47, FALSE) | Value: H111
+ Cell address: C81 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A48, FALSE) | Value: H112
+ Cell address: C82 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A49, FALSE) | Value: H113
+ Cell address: C83 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A50, FALSE) | Value: H114
+ Cell address: C84 | Formula : SUM(C79:C83) | Value: 0
+ Cell address: D84 | Formula : SUM(D79:D83) | Value: 0
+ Cell address: F84 | Formula : SUM(F79:F83) | Value: 0
+ Cell address: C86 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A52, FALSE) | Value: H118
+ Cell address: C87 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A53, FALSE) | Value: H119
+ Cell address: C88 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A54, FALSE) | Value: H120
+ Cell address: C89 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A55, FALSE) | Value: H121
+ Cell address: C90 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A56, FALSE) | Value: H122
+ Cell address: C91 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A57, FALSE) | Value: H123
+ Cell address: C92 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A58, FALSE) | Value: H124
+ Cell address: C93 | Formula : SUM(C86:C92) | Value: 0
+ Cell address: D93 | Formula : SUM(D86:D92) | Value: 0
+ Cell address: F93 | Formula : SUM(F86:F92) | Value: 0
+ Cell address: C95 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A60, FALSE) | Value: H128
+ Cell address: C96 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A61, FALSE) | Value: H129
+ Cell address: C97 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A62, FALSE) | Value: H130
+ Cell address: C98 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A63, FALSE) | Value: H131
+ Cell address: C99 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A64, FALSE) | Value: H132
+ Cell address: C100 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A65, FALSE) | Value: H133
+ Cell address: C101 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A66, FALSE) | Value: H134
+ Cell address: C102 | Formula : SUM(C95:C101) | Value: 0
+ Cell address: D102 | Formula : SUM(D95:D101) | Value: 0
+ Cell address: F102 | Formula : SUM(F95:F101) | Value: 0
+ Cell address: C104 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A68, FALSE) | Value: H138
+ Cell address: C105 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A69, FALSE) | Value: H139
+ Cell address: C106 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A70, FALSE) | Value: H140
+ Cell address: C107 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A71, FALSE) | Value: H141
+ Cell address: C108 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A72, FALSE) | Value: H142
+ Cell address: C109 | Formula : SUM(C104:C108) | Value: 0
+ Cell address: D109 | Formula : SUM(D104:D108) | Value: 0
+ Cell address: F109 | Formula : SUM(F104:F108) | Value: 0
+ Cell address: C111 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A74, FALSE) | Value: H146
+ Cell address: C112 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A75, FALSE) | Value: H147
+ Cell address: C113 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A76, FALSE) | Value: H148
+ Cell address: C114 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A77, FALSE) | Value: H149
+ Cell address: C115 | Formula : SUM(C111:C114) | Value: 0
+ Cell address: D115 | Formula : SUM(D111:D114) | Value: 0
+ Cell address: F115 | Formula : SUM(F111:F114) | Value: 0
+ Cell address: C120 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A79, FALSE) | Value: H159
+ Cell address: C121 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A80, FALSE) | Value: H160
+ Cell address: C122 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A81, FALSE) | Value: H161
+ Cell address: C123 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A82, FALSE) | Value: H162
+ Cell address: C124 | Formula : SUM(C120:C123) | Value: 0
+ Cell address: D124 | Formula : SUM(D120:D123) | Value: 0
+ Cell address: F124 | Formula : SUM(F120:F123) | Value: 0
+ Cell address: C126 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A83, FALSE) | Value: H166
+ Cell address: C127 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A84, FALSE) | Value: H167
+ Cell address: C128 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A85, FALSE) | Value: H168
+ Cell address: C129 | Formula : SUM(C126:C128) | Value: 0
+ Cell address: D129 | Formula : SUM(D126:D128) | Value: 0
+ Cell address: F129 | Formula : SUM(F126:F128) | Value: 0
+ Cell address: C130 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A86, FALSE) | Value: H171
+ Cell address: C131 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A87, FALSE) | Value: H172
+ Cell address: C133 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A88, FALSE) | Value: H175
+ Cell address: C134 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A89, FALSE) | Value: H176
+ Cell address: C135 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A90, FALSE) | Value: H177
+ Cell address: C136 | Formula : SUM(C133:C135) | Value: 0
+ Cell address: D136 | Formula : SUM(D133:D135) | Value: 0
+ Cell address: F136 | Formula : SUM(F133:F135) | Value: 0
+ Cell address: C137 | Formula : C131+C136 | Value: #VALUE!
+ Cell address: D137 | Formula : D131+D136 | Value: 0
+ Cell address: F137 | Formula : F131+F136 | Value: 0
+ Cell address: C138 | Formula : C124+C129+C130+C137 | Value: #VALUE!
+ Cell address: D138 | Formula : D124+D129+D130+D137 | Value: 0
+ Cell address: F138 | Formula : F124+F129+F130+F137 | Value: 0
+ Cell address: C140 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A91, FALSE) | Value: H183
+ Cell address: C141 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A92, FALSE) | Value: H184
+ Cell address: C142 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A93, FALSE) | Value: H185
+ Cell address: C143 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A94, FALSE) | Value: H186
+ Cell address: C144 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A95, FALSE) | Value: H187
+ Cell address: C145 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A96, FALSE) | Value: H188
+ Cell address: C146 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A97, FALSE) | Value: H189
+ Cell address: C147 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A98, FALSE) | Value: H190
+ Cell address: D148 | Formula : IF(SUM(D140:D147)>D134, "FAIL", "PASS") | Value: PASS
+ Cell address: F148 | Formula : IF(SUM(F140:F147)>F134, "FAIL", "PASS") | Value: PASS
+ Cell address: C153 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A100, FALSE) | Value: H199
+ Cell address: C154 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A101, FALSE) | Value: H200
+ Cell address: C155 | Formula : SUM(C153:C154) | Value: 0
+ Cell address: D155 | Formula : SUM(D153:D154) | Value: 0
+ Cell address: F155 | Formula : SUM(F153:F154) | Value: 0
+ Cell address: C157 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A102, FALSE) | Value: H204
+ Cell address: C158 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A103, FALSE) | Value: H205
+ Cell address: C159 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A104, FALSE) | Value: H206
+ Cell address: C160 | Formula : SUM(C157:C159) | Value: 0
+ Cell address: D160 | Formula : SUM(D157:D159) | Value: 0
+ Cell address: F160 | Formula : SUM(F157:F159) | Value: 0
+ Cell address: C162 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A105, FALSE) | Value: H210
+ Cell address: C163 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A106, FALSE) | Value: H211
+ Cell address: C164 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A107, FALSE) | Value: H212
+ Cell address: C165 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A108, FALSE) | Value: H213
+ Cell address: C166 | Formula : SUM(C162:C165) | Value: 0
+ Cell address: D166 | Formula : SUM(D162:D165) | Value: 0
+ Cell address: F166 | Formula : SUM(F162:F165) | Value: 0
+ Cell address: C167 | Formula : C155+C160+C166 | Value: 0
+ Cell address: D167 | Formula : D155+D160+D166 | Value: 0
+ Cell address: F167 | Formula : F155+F160+F166 | Value: 0
+ Cell address: C169 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A109, FALSE) | Value: H217
+ Cell address: C170 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A110, FALSE) | Value: H218
+ Cell address: C174 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A112, FALSE) | Value: H226
+ Cell address: C175 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A113, FALSE) | Value: H227
+ Cell address: C176 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A114, FALSE) | Value: H228
+ Cell address: C177 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A115, FALSE) | Value: H229
+ Cell address: C178 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A116, FALSE) | Value: H230
+ Cell address: C179 | Formula : SUM(C174:C178) | Value: 0
+ Cell address: D179 | Formula : SUM(D174:D178) | Value: 0
+ Cell address: F179 | Formula : SUM(F174:F178) | Value: 0
+ Cell address: C184 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A118, FALSE) | Value: H240
+ Cell address: C185 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A119, FALSE) | Value: H241
+ Cell address: C186 | Formula : SUM(C184:C185) | Value: 0
+ Cell address: D186 | Formula : SUM(D184:D185) | Value: 0
+ Cell address: F186 | Formula : SUM(F184:F185) | Value: 0
+ Cell address: C188 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A120, FALSE) | Value: H245
+ Cell address: C189 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A121, FALSE) | Value: H246
+ Cell address: C190 | Formula : SUM(C188:C189) | Value: 0
+ Cell address: D190 | Formula : SUM(D188:D189) | Value: 0
+ Cell address: F190 | Formula : SUM(F188:F189) | Value: 0
+ Cell address: C192 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A122, FALSE) | Value: H250
+ Cell address: C193 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A123, FALSE) | Value: H251
+ Cell address: C194 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A124, FALSE) | Value: H252
+ Cell address: C195 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A125, FALSE) | Value: H253
+ Cell address: C196 | Formula : SUM(C192:C195) | Value: 0
+ Cell address: D196 | Formula : SUM(D192:D195) | Value: 0
+ Cell address: F196 | Formula : SUM(F192:F195) | Value: 0
+ Cell address: C197 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A126, FALSE) | Value: H256
+ Cell address: C198 | Formula : C186+C190+C196+C197 | Value: #VALUE!
+ Cell address: D198 | Formula : D186+D190+D196+D197 | Value: 0
+ Cell address: F198 | Formula : F186+F190+F196+F197 | Value: 0
+ Cell address: C202 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A128, FALSE) | Value: H267
+ Cell address: C203 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A129, FALSE) | Value: H268
+ Cell address: C204 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A130, FALSE) | Value: H269
+ Cell address: C205 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A131, FALSE) | Value: H270
+ Cell address: C206 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A132, FALSE) | Value: H271
+ Cell address: C207 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A133, FALSE) | Value: H272
+ Cell address: C208 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A134, FALSE) | Value: H273
+ Cell address: C209 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A135, FALSE) | Value: H274
+ Cell address: C210 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A136, FALSE) | Value: H275
+ Cell address: C211 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A137, FALSE) | Value: H276
+ Cell address: C212 | Formula : SUM(C202:C211) | Value: 0
+ Cell address: D212 | Formula : SUM(D202:D211) | Value: 0
+ Cell address: F212 | Formula : SUM(F202:F211) | Value: 0
+ Cell address: C216 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A139, FALSE) | Value: H286
+ Cell address: C217 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A140, FALSE) | Value: H287
+ Cell address: C218 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A141, FALSE) | Value: H288
+ Cell address: C219 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A142, FALSE) | Value: H289
+ Cell address: C220 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A143, FALSE) | Value: H290
+ Cell address: C221 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A144, FALSE) | Value: H291
+ Cell address: C222 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A145, FALSE) | Value: H292
+ Cell address: C223 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A146, FALSE) | Value: H293
+ Cell address: C224 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A147, FALSE) | Value: H294
+ Cell address: C225 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A148, FALSE) | Value: H295
+ Cell address: C226 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A149, FALSE) | Value: H296
+ Cell address: C227 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A150, FALSE) | Value: H297
+ Cell address: C228 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A151, FALSE) | Value: H298
+ Cell address: C229 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A152, FALSE) | Value: H299
+ Cell address: C230 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A153, FALSE) | Value: H300
+ Cell address: C231 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A154, FALSE) | Value: H301
+ Cell address: C232 | Formula : SUM(C216:C231) | Value: 0
+ Cell address: D232 | Formula : SUM(D216:D231) | Value: 0
+ Cell address: F232 | Formula : SUM(F216:F231) | Value: 0
+ Cell address: C236 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A156, FALSE) | Value: H311
+ Cell address: C237 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A157, FALSE) | Value: H312
+ Cell address: C238 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A158, FALSE) | Value: H313
+ Cell address: C239 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A159, FALSE) | Value: H314
+ Cell address: C240 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A160, FALSE) | Value: H315
+ Cell address: C241 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A161, FALSE) | Value: H316
+ Cell address: C242 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A162, FALSE) | Value: H317
+ Cell address: C243 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A163, FALSE) | Value: H318
+ Cell address: C244 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A164, FALSE) | Value: H319
+ Cell address: C245 | Formula : SUM(C236:C244) | Value: 0
+ Cell address: D245 | Formula : SUM(D236:D244) | Value: 0
+ Cell address: F245 | Formula : SUM(F236:F244) | Value: 0
+ Cell address: C250 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A167, FALSE) | Value: C333
+ Cell address: C251 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A168, FALSE) | Value: C334
+ Cell address: C252 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A169, FALSE) | Value: C335
+ Cell address: C253 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A170, FALSE) | Value: C336
+ Cell address: C254 | Formula : SUM(C250:C253) | Value: 0
+ Cell address: D254 | Formula : SUM(D250:D253) | Value: 0
+ Cell address: F254 | Formula : SUM(F250:F253) | Value: 0
+ Cell address: C256 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A172, FALSE) | Value: D333
+ Cell address: C257 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A173, FALSE) | Value: D334
+ Cell address: C258 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A174, FALSE) | Value: D335
+ Cell address: C259 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A175, FALSE) | Value: D336
+ Cell address: C260 | Formula : SUM(C256:C259) | Value: 0
+ Cell address: D260 | Formula : SUM(D256:D259) | Value: 0
+ Cell address: F260 | Formula : SUM(F256:F259) | Value: 0
+ Cell address: C262 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A177, FALSE) | Value: E333
+ Cell address: C263 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A178, FALSE) | Value: E334
+ Cell address: C264 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A179, FALSE) | Value: E335
+ Cell address: C265 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A180, FALSE) | Value: E336
+ Cell address: C266 | Formula : SUM(C262:C265) | Value: 0
+ Cell address: D266 | Formula : SUM(D262:D265) | Value: 0
+ Cell address: F266 | Formula : SUM(F262:F265) | Value: 0
+ Cell address: C268 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A182, FALSE) | Value: F333
+ Cell address: C269 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A183, FALSE) | Value: F334
+ Cell address: C270 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A184, FALSE) | Value: F335
+ Cell address: C271 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A185, FALSE) | Value: F336
+ Cell address: C272 | Formula : SUM(C268:C271) | Value: 0
+ Cell address: D272 | Formula : SUM(D268:D271) | Value: 0
+ Cell address: F272 | Formula : SUM(F268:F271) | Value: 0
+ Cell address: C274 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A187, FALSE) | Value: G333
+ Cell address: C275 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A188, FALSE) | Value: G334
+ Cell address: C276 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A189, FALSE) | Value: G335
+ Cell address: C277 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A190, FALSE) | Value: G336
+ Cell address: C278 | Formula : SUM(C274:C277) | Value: 0
+ Cell address: D278 | Formula : SUM(D274:D277) | Value: 0
+ Cell address: F278 | Formula : SUM(F274:F277) | Value: 0
+ Cell address: C280 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A192, FALSE) | Value: H333
+ Cell address: C281 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A193, FALSE) | Value: H334
+ Cell address: C282 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A194, FALSE) | Value: H335
+ Cell address: C283 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A195, FALSE) | Value: H336
+ Cell address: C284 | Formula : SUM(C280:C283) | Value: 0
+ Cell address: D284 | Formula : SUM(D280:D283) | Value: 0
+ Cell address: F284 | Formula : SUM(F280:F283) | Value: 0
+ Cell address: C288 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A197, FALSE) | Value: H347
+ Cell address: C290 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A198, FALSE) | Value: H353
+ Cell address: C291 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A199, FALSE) | Value: H354
+ Cell address: C292 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A200, FALSE) | Value: H355
+ Cell address: C293 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A201, FALSE) | Value: H356
+ Cell address: C294 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A202, FALSE) | Value: H357
+ Cell address: C295 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A203, FALSE) | Value: H358
+ Cell address: C296 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A204, FALSE) | Value: H359
+ Cell address: C297 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A205, FALSE) | Value: H360
+ Cell address: C298 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A206, FALSE) | Value: H361
+ Cell address: C299 | Formula : HLOOKUP($B$2, 'Lookup Data'!$A:$AJ, 'Lookup Data'!$A207, FALSE) | Value: H362
+ Cell address: C300 | Formula : SUM(C290:C299) | Value: 0
+ Cell address: D300 | Formula : SUM(D290:D299) | Value: 0
+ Cell address: F300 | Formula : SUM(F290:F299) | Value: 0
+
+
+Sheet name: Lookup Data
+
+Named Ranges
+  No named ranges in sheet
+
+Formulas
+  No formulae in sheet
+
+

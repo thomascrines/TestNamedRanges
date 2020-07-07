@@ -1,0 +1,92 @@
+File name: POBE+2019+-+Publication+tables.xlsx
+
+Sheet name: Notes
+
+Named Ranges
+ Name: _xlnm.Print_Area | Start address: A1 | End address: P40
+
+Formulas
+  No formulae in sheet
+
+
+Sheet name: Contents
+
+Named Ranges
+ Name: _xlnm.Print_Area | Start address: A1 | End address: C18
+
+Formulas
+  No formulae in sheet
+
+
+Sheet name: Table 1
+
+Named Ranges
+  No named ranges in sheet
+
+Formulas
+  No formulae in sheet
+
+
+Sheet name: Table 1a
+
+Named Ranges
+ Name: _xlnm.Print_Area | Start address: A1 | End address: J41
+
+Formulas
+  No formulae in sheet
+
+
+Sheet name: Table 2
+
+Named Ranges
+ Name: _xlnm.Print_Area | Start address: A1 | End address: C10
+
+Formulas
+  No formulae in sheet
+
+
+Sheet name: Table 2a
+
+Named Ranges
+ Name: _xlnm.Print_Area | Start address: A1 | End address: H38
+
+Formulas
+  No formulae in sheet
+
+
+Sheet name: Table 3
+
+Named Ranges
+  No named ranges in sheet
+
+Formulas
+  No formulae in sheet
+
+
+Sheet name: Table 3a
+
+Named Ranges
+ Name: _xlnm.Print_Area | Start address: A1 | End address: J41
+
+Formulas
+  No formulae in sheet
+
+
+Sheet name: Table 4
+
+Named Ranges
+  No named ranges in sheet
+
+Formulas
+  No formulae in sheet
+
+
+Sheet name: Table 4a
+
+Named Ranges
+  No named ranges in sheet
+
+Formulas
+  No formulae in sheet
+
+
